@@ -1,4 +1,6 @@
 # KCS
+__NOTE:__ Original source site has gone down - a mirrored version exists at [this location](http://dxforth.mirrors.minimaltype.com/)
+
 Information and software from (http://dxforth.netbay.com.au/#kcs) where it was listed under the following license:
 
 "Disclaimer: The projects presented here are experimental in nature. They may be incomplete, not fully tested or contain defects.
